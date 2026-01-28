@@ -26,4 +26,5 @@ Analysis.ipynb: Pipeline completo de procesamiento, estadística descriptiva e i
 
 Article_Final.pdf: Versión publicada del artículo de investigación.
 
-Nota sobre Privacidad: La base de datos original ha sido omitida para proteger el secreto médico y la privacidad de los participantes, conforme a estándares éticos de investigación en salud.
+### Nota sobre los datos
+La base de datos incluida ha sido completamente anonimizada y se publica para fines académicos bajo los principios de ciencia abierta. No se incluyen identificadores personales ni sensibles. El uso de esta base con fines distintos a los científicos debe ser autorizado por los autores.
